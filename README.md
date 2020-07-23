@@ -1,2 +1,2 @@
 # Flow-Hackathon-May-2020
-Flow Trader's May 2020 Hackathon solution. Passes all tests https://www.hackerrank.com/contests/flow-hackathon-may-2020/challenges/quoting-an-etf. Was critiqued by Software Engineer at Flow Traders. 
+Flow Trader's May 2020 Hackathon solution. Passes all tests https://www.hackerrank.com/contests/flow-hackathon-may-2020/challenges/quoting-an-etf. It was kindly critiqued by a Software Engineer at Flow Traders. Will leave as a milestone as it was the first time I properly implemented C++ code. If you want to read the original problem you can read the PDF or the Hackerrank question.
